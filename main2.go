@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-//SLICE
+//EJEMPLO DE COMO FUNCIONA UN SLICE
 func main() {
 	s := make([]int, 0, 100)
 	fmt.Println(len(s), cap(s))
