@@ -1,3 +1,7 @@
+//En este ejercicio hacemos un slide en go el cual se adapta al tamaño que decida al usuario
+// despues de ser llenado por el usuario hace la suma de todos los elementos del slide
+// con sus respectivas validaciones para que no acepte numeros negativos.
+
 package main
 
 import "fmt"
